@@ -3,3 +3,4 @@
 ## Gravando mundanças no repositorio
 
 #Salvando modificações no git
+* comando git push
